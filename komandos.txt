@@ -1,0 +1,11 @@
+
+$ git init
+$ git config user.name "Liud4s"
+$ git config user.mail "jliudasr3@gmail.com"
+$ git remote add origin https://github.com/Liud4s/Paprastas.git
+(su read me failu) $ git pull origin master
+https://github.com/github/gitignore/blob/master/C%2B%2B.gitignore
+cmd  komandose (Z:\>F:    F:\>cd Folder   F:\Folder>) rename ".get ignore.txt" .gitignore
+$ $ git rm -r --cached .
+$ git add.
+$ git commit -m "PM"
